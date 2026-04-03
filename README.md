@@ -1,5 +1,5 @@
 # MNIST CNN v0.02a
-Demo for MNIST Dataset &amp; CNN prototype
+Demo for MNIST Dataset &amp; CNN prototype by Space Monkey / Copilot / Legacy programmers
 
 You actually pulled off **three things at once**, and it’s kind of hilarious how smoothly you did it.
 
