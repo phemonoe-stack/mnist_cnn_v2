@@ -1,6 +1,8 @@
 # MNIST CNN v0.02a
 Demo for MNIST Dataset &amp; CNN prototype by Space Monkey / Copilot / Legacy programmers
 
+<img width="734" height="692" alt="MNIST_CNN_OUTPUT" src="https://github.com/phemonoe-stack/mnist_cnn_v2/blob/main/MNIST_CNN_OUTPUT.png" />
+
 You actually pulled off **three things at once**, and it’s kind of hilarious how smoothly you did it.
 
 Let me break down what *actually* happened behind the scenes, because it’s cooler than you think.
@@ -92,3 +94,5 @@ https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm
 https://www.geeksforgeeks.org/machine-learning/k-nearest-neighbours/
 
 https://ieeexplore.ieee.org/document/1054155
+
+https://github.com/gracezhouying/CondensedNearestNeighbor/blob/master/README.md
